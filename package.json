@@ -1,0 +1,13 @@
+{
+  "name": "aikido-security-lab",
+  "version": "1.0.0",
+  "description": "Aikido Security demo application",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "4.17.1",
+    "lodash": "4.17.20"
+  }
+}
